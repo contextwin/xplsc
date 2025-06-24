@@ -8,7 +8,6 @@ chmod +X xplsc.sh
 で実行
 
 1. Xfce4の電源管理設定
-
 設定場所: Settings Manager → Power Manager
 確認項目:
 	"Put display to sleep when computer is inactive for" の設定
