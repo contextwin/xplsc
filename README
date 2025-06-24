@@ -29,7 +29,6 @@ chmod +X xplsc.sh
 systemd の設定
 	systemctl status systemd-logind
 	cat /etc/systemd/logind.conf
-
 主な設定項目:
 	IdleAction
 	IdleActionSec
